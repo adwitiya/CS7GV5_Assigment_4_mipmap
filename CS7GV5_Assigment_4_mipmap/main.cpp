@@ -183,7 +183,7 @@ int main()
     // load textures
     // -------------
     unsigned int cubeTexture = loadTexture(FileSystem::getPath("marble.jpg").c_str());
-    unsigned int floorTexture = loadTexture(FileSystem::getPath("checker.jpg").c_str());
+    unsigned int floorTexture = loadTexture(FileSystem::getPath("mar2.jpg").c_str());
 
     // shader configuration
     // --------------------
